@@ -1,0 +1,19 @@
+{
+  "name": "webpack-template",
+  "version": "1.0.0",
+  "description": "new project templte",
+  "main": "js/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "aframe": "^0.6.1",
+    "aframe-layout-component": "^4.2.0",
+    "aframe-template-component": "^3.2.1",
+    "angle": "^0.7.1",
+    "ar.js": "^1.4.10",
+    "express": "^4.15.4"
+  }
+}
