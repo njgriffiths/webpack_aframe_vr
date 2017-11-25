@@ -10,8 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "aframe": "^0.6.1",
-    "aframe-layout-component": "^4.2.0",
-    "aframe-template-component": "^3.2.1",
     "angle": "^0.7.1",
     "ar.js": "^1.4.10",
     "express": "^4.15.4"
